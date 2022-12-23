@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string-array name="type">
+        <item>New Game</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+    </string-array>
+</resources>

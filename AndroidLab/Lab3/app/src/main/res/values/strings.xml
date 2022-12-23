@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Рейтинг изображений</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter your text here</string>
+    <string name="button_send">Go!</string>
+    <string name="button_like">Like</string>
+    <string name="button_dislike">Dislike</string>
+</resources>

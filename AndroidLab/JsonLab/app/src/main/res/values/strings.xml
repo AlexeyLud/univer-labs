@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JsonList</string>
+    <string name="input">Введите ID юзера</string>
+    <string name="not_found">Пользователя с таким ID  не существует!</string>
+</resources>
