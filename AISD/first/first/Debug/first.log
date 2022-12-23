@@ -1,0 +1,6 @@
+﻿  first.cpp
+D:\source\repos\AISD\first\first\first.cpp(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\AISD\first\first\first.cpp(80,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\AISD\first\first\first.cpp(88,10): warning C4018: >: несоответствие типов со знаком и без знака
+D:\source\repos\AISD\first\first\first.cpp(89,20): warning C4018: <: несоответствие типов со знаком и без знака
+  first.vcxproj -> D:\source\repos\AISD\first\Debug\first.exe
