@@ -1,0 +1,4 @@
+﻿  KSiS_3lab.cpp
+D:\source\repos\KSiS_3lab\KSiS_3lab\KSiS_3lab.cpp(9): warning C4405: str: идентификатор является зарезервированным словом
+D:\source\repos\KSiS_3lab\KSiS_3lab\KSiS_3lab.cpp(87): warning C4405: str: идентификатор является зарезервированным словом
+  KSiS_3lab.vcxproj -> D:\source\repos\KSiS_3lab\Debug\KSiS_3lab.exe

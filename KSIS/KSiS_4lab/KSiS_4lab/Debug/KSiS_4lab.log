@@ -1,0 +1,47 @@
+﻿  KSiS_4lab.cpp
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(7,15): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "small"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(8,15): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "constant"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(10,1): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "newline"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(10,16): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(11,16): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(12,15): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(13,24): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(13,27): error C2015: слишком много знаков в константе
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(14,16): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(15,24): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(16,27): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(16,30): error C2015: слишком много знаков в константе
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(17,27): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(17,30): error C2015: слишком много знаков в константе
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(20,1): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "newline"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(20,9): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "constant"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(21,13): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "constant"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(23,17): error C2018: неизвестный знак "0x40"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(23,9): error C2244: std::data: не удается сопоставить определение функции существующему объявлению
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(23,9): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(28,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(31,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(33,21): error C2041: недопустимая цифра "9" для основания "8"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(34,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(38,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(42,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(43,21): error C2041: недопустимая цифра "9" для основания "8"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(44,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(48,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(52,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(53,21): error C2041: недопустимая цифра "9" для основания "8"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(54,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(57,9): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(59,13): error C2432: недопустимая ссылка на 16-разрядные данные в "второй операнд"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(60,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(63,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(67,13): error C2432: недопустимая ссылка на 16-разрядные данные в "второй операнд"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(68,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(71,1): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(72,13): error C2432: недопустимая ссылка на 16-разрядные данные в "первый операнд"
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(72,13): error C2415: недопустимый тип операнда
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(78,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(80,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(83,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(88,13): error C2443: конфликт размеров операндов
+D:\source\repos\KSiS_4lab\KSiS_4lab\KSiS_4lab.cpp(96,17): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "start"
